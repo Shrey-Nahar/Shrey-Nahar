@@ -13,7 +13,7 @@
 <a href="https://linkedin.com/in/shrey nahar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shrey nahar" height="30" width="40" /></a>
 <a href="https://fb.com/shrey nahar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shrey nahar" height="30" width="40" /></a>
 <a href="https://instagram.com/shrey__nahar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shrey__nahar" height="30" width="40" /></a>
-<!--<a href="mailto:shreynahar3@gmail.com" target="blank"><img align="center" src="file:///C:/Users/Shrey/Downloads/gmail.svg" alt="shrey__nahar" height="30" width="40" /></a>-->
+ <a href="mailto:shreynahar3@gmail.com" target="blank"><img align="center" src="https://camo.githubusercontent.com/4a3dd8d10a27c272fd04b2ce8ed1a130606f95ea6a76b5e19ce8b642faa18c27/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f676d61696c2e737667" alt="shrey__nahar" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
