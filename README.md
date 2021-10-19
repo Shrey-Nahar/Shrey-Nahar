@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Shrey-Nahar&label=Profile%20views&color=129e00&style=plastic" alt="Shrey-Nahar" /> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif"> 
-📫 How to reach me **shreynahar3@gmail.com**
+📫 How to reach me <a href="mailto:shreynahar3@gmail.com">shreynahar3@gmail.com</a>
  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -13,6 +13,7 @@
 <a href="https://linkedin.com/in/shrey nahar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shrey nahar" height="30" width="40" /></a>
 <a href="https://fb.com/shrey nahar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shrey nahar" height="30" width="40" /></a>
 <a href="https://instagram.com/shrey__nahar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shrey__nahar" height="30" width="40" /></a>
+<!--<a href="mailto:shreynahar3@gmail.com" target="blank"><img align="center" src="file:///C:/Users/Shrey/Downloads/gmail.svg" alt="shrey__nahar" height="30" width="40" /></a>-->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
